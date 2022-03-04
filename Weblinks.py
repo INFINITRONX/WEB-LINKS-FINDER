@@ -35,7 +35,7 @@ print("👇")
 print(B ,"python wlink.py <scan web with http or https> -m <max urls number>")
 print("👇👇👇👇👇👇")
 print("👇")
-print(R ,"example÷ python wlink.py https://google.com -m 50")
+print(R ,"example÷ python Weblinks.py https://google.com -m 50")
 print(N ,"")
 import requests
 from urllib.parse import urlparse, urljoin
